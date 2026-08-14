@@ -177,10 +177,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-12T21:31:20Z",
+                "last_commit": "2026-08-13T19:42:31Z",
                 "owner": "facebook",
                 "repo": "relay",
-                "stars": 18954
+                "stars": 18956
               }
             }
           ],
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:32:40.154Z",
+    "last_updated": "2026-08-14T04:19:30.068Z",
     "original_repository": "expede/awesome-relay",
     "original_repository_sha": "c467b6d340ac901abfe8303e49e76c031ce3a647",
     "enhanced_repository": "enhansome/enhansome-relay",
