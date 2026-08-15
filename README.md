@@ -1,6 +1,6 @@
 # Awesome Relay with stars
 
-Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,956 | 🐛 870 | 🌐 Rust | 📅 2026-08-13, based on the [Awesome](https://github.com/sindresorhus/awesome/) ⭐ 495,460 | 🐛 99 | 📅 2026-06-30 project
+Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,956 | 🐛 871 | 🌐 Rust | 📅 2026-08-15, based on the [Awesome](https://github.com/sindresorhus/awesome/) ⭐ 495,828 | 🐛 100 | 📅 2026-06-30 project
 
 # Table of Contents
 
@@ -39,7 +39,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,956 | �
 * [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/) - One of the few detailed walk throughs of hand-on Relay.
 * [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6#.1i64q1pf9) - A complete workable example.
   * [Relay 102: Mutations](https://medium.com/@clayallsopp/relay-102-mutations-d8b471a4730e#.i9vuv3vxl) - A follow up to "Relay 101" concentrating on mutations.
-* [Facebook Relay talk - Lunch and Learn session](https://www.youtube.com/watch?v=sP3n-nht0Xo) - Walkthrough of building a simple app, and demonstration of [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,893 | 🐛 390 | 🌐 TypeScript | 📅 2026-08-11.
+* [Facebook Relay talk - Lunch and Learn session](https://www.youtube.com/watch?v=sP3n-nht0Xo) - Walkthrough of building a simple app, and demonstration of [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,894 | 🐛 390 | 🌐 TypeScript | 📅 2026-08-11.
 * [A Beginner's Guide to Relay Mutations](http://blog.pathgather.com/blog/a-beginners-guide-to-relay-mutations) - Mutations in depth.
 * [Learn Relay](https://learnrelay.org/) - Shows you how to make a Pokemon-themed CRUD app, providing a personal, cloud-based GraphQL backend so you can focus on the client-side code.
 
@@ -49,7 +49,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,956 | �
 * [Joseph Savona - Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg) - Conceptual overview of Relay from the Facebook team.
 * [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU) - Overview of Relay, some about the philosophy.
 * [Relay - Daniel Dembach - Hamburg React.js Meetup](https://www.youtube.com/watch?v=dvWTxy1eY6s) - A good general overview of Relay, some discussion of alternatives. Common questions are covered in Q\&A at the end.
-* [Facebook Relay talk - Lunch and Learn session](https://www.youtube.com/watch?v=sP3n-nht0Xo) - Walkthrough of building a simple app, and demonstration of [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,893 | 🐛 390 | 🌐 TypeScript | 📅 2026-08-11.
+* [Facebook Relay talk - Lunch and Learn session](https://www.youtube.com/watch?v=sP3n-nht0Xo) - Walkthrough of building a simple app, and demonstration of [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,894 | 🐛 390 | 🌐 TypeScript | 📅 2026-08-11.
 * [React with Relay and GraphQL with Andrew Smith](https://www.youtube.com/watch?v=Cfna8gwt9h8) - High level overview of Relay and GraphQL, with some useful discussion from the audience. Some discussion of other front-end frameworks, as well.
 * [Relay for Visual Learners](http://sgwilym.github.io/relay-visual-learners/) - Very clear set of diagrams laying out how the different parts of Relay relate to each other.
 * [Relay: Seamless Syncing For React](http://www.slideshare.net/BrooklynZelenka/relay-seamless-syncing-for-react-vanjs) - An overview of what Relay is, and some discussion of experience using it in production.
@@ -61,7 +61,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,956 | �
 
 ## Example Implementations
 
-* [Relay TODO MVC](https://github.com/taion/relay-todomvc) ⭐ 158 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-11 - The classic TODO example app, written with Relay.
+* [Relay TODO MVC](https://github.com/taion/relay-todomvc) ⭐ 158 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-14 - The classic TODO example app, written with Relay.
 * [`koa-graphql-relay-example`](https://github.com/chentsulin/koa-graphql-relay-example) ⭐ 99 | 🐛 2 | 🌐 JavaScript | 📅 2016-11-28 - "TODO" app with [`koa-graphql`](https://github.com/chentsulin/koa-graphql) ⭐ 840 | 🐛 6 | 🌐 TypeScript | 📅 2023-01-24 and `relay`.
 * [`relay-chat`](https://github.com/transedward/relay-chat) ⚠️ Archived - Relay with routing and pagination.
 * [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) ⭐ 65 | 🐛 3 | 🌐 JavaScript | 📅 2016-08-03 - Relay TodoMVC app, driven by a Golang GraphQL backend.
@@ -74,17 +74,17 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,956 | �
 
 ## Libraries & Packages
 
-* [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) ⭐ 1,540 | 🐛 24 | 🌐 TypeScript | 📅 2025-10-02 - Simplifies creating a JS GraphQL server for `react-relay`.
+* [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) ⭐ 1,541 | 🐛 24 | 🌐 TypeScript | 📅 2025-10-02 - Simplifies creating a JS GraphQL server for `react-relay`.
 * [`react-router-relay`](https://github.com/relay-tools/react-router-relay) ⭐ 557 | 🐛 1 | 🌐 JavaScript | 📅 2019-07-26 - `react-router` bindings for Relay. Greatly simplifies many local state UI uses cases.
   * [`isomorphic-relay-router`](https://github.com/denvned/isomorphic-relay-router) ⭐ 138 | 🐛 3 | 🌐 JavaScript | 📅 2017-10-05 - Server side rendering support for `react-router-relay`.
   * [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.h91614i65) - A well-articulated walk through of `react-router-relay`, and the problems that it solves.
   * [`relay-nested-routes`](https://www.npmjs.com/package/relay-nested-routes) - Generate nested routes that reflect nested data. Helpful for managing deep data.
 * [`react-relay-network-layer`](https://github.com/nodkz/react-relay-network-layer) ⭐ 277 | 🐛 9 | 🌐 JavaScript | 📅 2018-11-03 - A Network Layer that adds support for query-batching and middlewares. It additionally provides some useful middlewares such as for auth, for logging, etc.
-* [`relay-local-schema`](https://github.com/relay-tools/relay-local-schema) ⭐ 252 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-12 - Use a local schema; no need for a remote GraphQL server.
+* [`relay-local-schema`](https://github.com/relay-tools/relay-local-schema) ⭐ 252 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-14 - Use a local schema; no need for a remote GraphQL server.
 * [`relay-sink`](https://github.com/acdlite/relay-sink) ⭐ 126 | 🐛 1 | 🌐 JavaScript | 📅 2017-06-19 - Use Relay to fetch and store data outside of a React component.
-* [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) ⭐ 76 | 🐛 6 | 🌐 JavaScript | 📅 2018-10-19 - Make Relay compatible with [`sequelize`](https://github.com/sequelize/sequelize) ⭐ 30,377 | 🐛 1,076 | 🌐 TypeScript | 📅 2026-08-14.
+* [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) ⭐ 76 | 🐛 6 | 🌐 JavaScript | 📅 2018-10-19 - Make Relay compatible with [`sequelize`](https://github.com/sequelize/sequelize) ⭐ 30,377 | 🐛 1,075 | 🌐 TypeScript | 📅 2026-08-14.
 * [`react-native-relay`](https://github.com/lenaten/react-native-relay) ⭐ 74 | 🐛 3 | 🌐 JavaScript | 📅 2016-03-24 - Use Relay with React Native.
-  * May be supported [out of the box](https://github.com/facebook/relay/issues/26) ⭐ 18,956 | 🐛 870 | 🌐 Rust | 📅 2026-08-13 in the future.
+  * May be supported [out of the box](https://github.com/facebook/relay/issues/26) ⭐ 18,956 | 🐛 871 | 🌐 Rust | 📅 2026-08-15 in the future.
 * [`relay-composite-network-layer`](https://github.com/eyston/relay-composite-network-layer) ⭐ 49 | 🐛 3 | 🌐 JavaScript | 📅 2015-12-28 - Compose your Relay Network Layer of many different Network Layers each with their own schema.
 * [`relay-mongodb-connection`](https://github.com/mikberg/relay-mongodb-connection) ⭐ 40 | 🐛 4 | 🌐 JavaScript | 📅 2017-11-18 - Create Relay connections from MongoDB cursors.
 * [`babel-plugin-flow-relay-query`](https://github.com/guymers/babel-plugin-flow-relay-query) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2017-12-15 - Convert [Flow](http://flowtype.org) types into Relay fragments.
@@ -94,9 +94,9 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,956 | �
 
 ## Tooling
 
-* [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,893 | 🐛 390 | 🌐 TypeScript | 📅 2026-08-11 - A library to introspect GraphQL, test queries and mutations.
+* [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,894 | 🐛 390 | 🌐 TypeScript | 📅 2026-08-11 - A library to introspect GraphQL, test queries and mutations.
   * [GraphiQL App](https://github.com/skevy/graphiql-app) ⭐ 2,969 | 🐛 87 | 🌐 JavaScript | 📅 2023-08-24 - A standalone app for viewing GraphQL, introspection docs, and testing queries/mutations. Invaluable for debugging your Relay app.
-* [`relay-local-schema`](https://github.com/relay-tools/relay-local-schema) ⭐ 252 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-12 - Use a local schema; no need for a remote GraphQL server.
+* [`relay-local-schema`](https://github.com/relay-tools/relay-local-schema) ⭐ 252 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-14 - Use a local schema; no need for a remote GraphQL server.
 * [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
 
 ## Starter Kits
@@ -119,7 +119,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,956 | �
 
 ## JavaScript
 
-* [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) ⭐ 1,540 | 🐛 24 | 🌐 TypeScript | 📅 2025-10-02 - Simplifies creating a JS GraphQL server for `react-relay`.
+* [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) ⭐ 1,541 | 🐛 24 | 🌐 TypeScript | 📅 2025-10-02 - Simplifies creating a JS GraphQL server for `react-relay`.
 
 ## Python
 
@@ -145,4 +145,4 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,956 | �
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
