@@ -177,10 +177,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-16T00:12:08Z",
+                "last_commit": "2026-08-17T00:11:04Z",
                 "owner": "facebook",
                 "repo": "relay",
-                "stars": 18956
+                "stars": 18954
               }
             }
           ],
@@ -281,7 +281,7 @@
             "last_commit": "2026-08-11T01:11:23Z",
             "owner": "graphql",
             "repo": "graphiql",
-            "stars": 16897
+            "stars": 16894
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2024-11-10T20:45:45Z",
             "owner": "kriasoft",
             "repo": "graphql-starter-kit",
-            "stars": 3972
+            "stars": 3971
           }
         },
         {
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:14:02.028Z",
+    "last_updated": "2026-08-17T03:14:09.840Z",
     "original_repository": "expede/awesome-relay",
     "original_repository_sha": "c467b6d340ac901abfe8303e49e76c031ce3a647",
     "enhanced_repository": "enhansome/enhansome-relay",
