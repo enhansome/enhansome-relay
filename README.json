@@ -198,7 +198,7 @@
                     "archived": false,
                     "id": 40508605,
                     "language": "Rust",
-                    "last_commit": "2026-08-19T00:11:25Z",
+                    "last_commit": "2026-08-21T00:12:32Z",
                     "owner": "facebook",
                     "repo": "relay",
                     "stars": 18955
@@ -310,7 +310,7 @@
                 "last_commit": "2026-08-11T01:11:23Z",
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16895
+                "stars": 16896
               }
             },
             {
@@ -392,7 +392,7 @@
                 "last_commit": "2017-01-28T04:21:15Z",
                 "owner": "mhart",
                 "repo": "simple-relay-starter",
-                "stars": 156
+                "stars": 155
               }
             },
             {
@@ -407,7 +407,7 @@
                 "last_commit": "2016-02-22T05:40:15Z",
                 "owner": "fortruce",
                 "repo": "relay-skeleton",
-                "stars": 124
+                "stars": 123
               }
             },
             {
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:11:36.931Z",
+    "last_updated": "2026-08-21T03:17:29.691Z",
     "original_repository": "expede/awesome-relay",
     "original_repository_id": 47605076,
     "original_repository_sha": "c467b6d340ac901abfe8303e49e76c031ce3a647",
