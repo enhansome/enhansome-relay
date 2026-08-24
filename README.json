@@ -7,6 +7,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Facebook Relay talk - Lunch and Learn session",
+              "description": "Walkthrough of building a simple app, and demonstration of GraphiQL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40518025,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T01:11:23Z",
+                "owner": "graphql",
+                "repo": "graphiql",
+                "stars": 16899
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Facebook Relay talk - Lunch and Learn session",
+              "description": "Walkthrough of building a simple app, and demonstration of GraphiQL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40518025,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T01:11:23Z",
+                "owner": "graphql",
+                "repo": "graphiql",
+                "stars": 16899
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Overviews"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Relay TODO MVC",
               "description": "The classic TODO example app, written with Relay.",
               "children": [],
@@ -22,7 +66,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "koa-graphql-relay-example",
               "description": "\"TODO\" app with and .",
               "children": [],
               "repo_info": {
@@ -37,7 +81,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "relay-chat",
               "description": "Relay with routing and pagination.",
               "children": [],
               "repo_info": {
@@ -52,7 +96,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "todomvc-relay-go",
               "description": "Relay TodoMVC app, driven by a Golang GraphQL backend.",
               "children": [],
               "repo_info": {
@@ -80,7 +124,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "graphql-relay-js",
               "description": "Simplifies creating a JS GraphQL server for .",
               "children": [],
               "repo_info": {
@@ -95,12 +139,12 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "react-router-relay",
               "description": "bindings for Relay. Greatly simplifies many local state UI uses cases.",
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "isomorphic-relay-router",
                   "description": "Server side rendering support for .",
                   "children": [],
                   "repo_info": {
@@ -126,7 +170,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "react-relay-network-layer",
               "description": "A Network Layer that adds support for query-batching and middlewares. It additionally provides some useful middlewares such as for auth, for logging, etc.",
               "children": [],
               "repo_info": {
@@ -141,7 +185,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "relay-local-schema",
               "description": "Use a local schema; no need for a remote GraphQL server.",
               "children": [],
               "repo_info": {
@@ -156,7 +200,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "relay-sink",
               "description": "Use Relay to fetch and store data outside of a React component.",
               "children": [],
               "repo_info": {
@@ -171,7 +215,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "sequelize-relay",
               "description": "Make Relay compatible with .",
               "children": [],
               "repo_info": {
@@ -186,7 +230,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "react-native-relay",
               "description": "Use Relay with React Native.",
               "children": [
                 {
@@ -198,10 +242,10 @@
                     "archived": false,
                     "id": 40508605,
                     "language": "Rust",
-                    "last_commit": "2026-08-21T21:27:51Z",
+                    "last_commit": "2026-08-24T08:29:02Z",
                     "owner": "facebook",
                     "repo": "relay",
-                    "stars": 18956
+                    "stars": 18955
                   }
                 }
               ],
@@ -217,7 +261,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "relay-composite-network-layer",
               "description": "Compose your Relay Network Layer of many different Network Layers each with their own schema.",
               "children": [],
               "repo_info": {
@@ -232,7 +276,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "relay-mongodb-connection",
               "description": "Create Relay connections from MongoDB cursors.",
               "children": [],
               "repo_info": {
@@ -247,7 +291,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "babel-plugin-flow-relay-query",
               "description": "Convert Flow types into Relay fragments.",
               "children": [],
               "repo_info": {
@@ -262,7 +306,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "relay-decorators",
               "description": "Simply syntax for Relay containers with ES7 decorators ( syntax)",
               "children": [],
               "repo_info": {
@@ -315,7 +359,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "relay-local-schema",
               "description": "Use a local schema; no need for a remote GraphQL server.",
               "children": [],
               "repo_info": {
@@ -347,7 +391,7 @@
                 "last_commit": "2024-11-10T20:45:45Z",
                 "owner": "kriasoft",
                 "repo": "graphql-starter-kit",
-                "stars": 3971
+                "stars": 3972
               }
             },
             {
@@ -455,7 +499,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "todomvc-relay-go",
               "description": "React/Relay TodoMVC app, driven by a Golang GraphQL backend.",
               "children": [],
               "repo_info": {
@@ -472,13 +516,108 @@
           "description": null,
           "node_type": "group",
           "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "graphql-relay-js",
+              "description": "Simplifies creating a JS GraphQL server for .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40213252,
+                "language": "TypeScript",
+                "last_commit": "2025-10-02T15:13:55Z",
+                "owner": "graphql",
+                "repo": "graphql-relay-js",
+                "stars": 1541
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "graphql-relay-py",
+              "description": "A library to help construct a server supporting .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42670247,
+                "language": "Python",
+                "last_commit": "2023-02-27T18:38:50Z",
+                "owner": "graphql-python",
+                "repo": "graphql-relay-py",
+                "stars": 144
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Relay on Rails Starter Kit",
+                  "description": "A barebones starter kit for Relay application on Rails server. Just clone and tweak!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43192805,
+                    "language": "Ruby",
+                    "last_commit": "2015-10-30T01:18:25Z",
+                    "owner": "nethsix",
+                    "repo": "relay-on-rails",
+                    "stars": 43
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Rails"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sangria-relay",
+              "description": "Relay support for Sangria.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40775961,
+                "language": "Scala",
+                "last_commit": "2026-06-07T15:00:33Z",
+                "owner": "sangria-graphql",
+                "repo": "sangria-relay",
+                "stars": 91
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scala"
         }
       ],
       "title": "Relay-Specific Server Support"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:17:51.269Z",
+    "last_updated": "2026-08-24T14:28:41.680Z",
     "original_repository": "expede/awesome-relay",
     "original_repository_id": 47605076,
     "original_repository_sha": "c467b6d340ac901abfe8303e49e76c031ce3a647",
