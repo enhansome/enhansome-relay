@@ -242,7 +242,7 @@
                     "archived": false,
                     "id": 40508605,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T08:29:02Z",
+                    "last_commit": "2026-08-24T22:28:16Z",
                     "owner": "facebook",
                     "repo": "relay",
                     "stars": 18955
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:41.680Z",
+    "last_updated": "2026-08-25T03:13:38.401Z",
     "original_repository": "expede/awesome-relay",
     "original_repository_id": 47605076,
     "original_repository_sha": "c467b6d340ac901abfe8303e49e76c031ce3a647",
