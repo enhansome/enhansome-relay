@@ -1,6 +1,6 @@
 # Awesome Relay with stars
 
-Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,958 | 🐛 859 | 🌐 Rust | 📅 2026-08-27, based on the [Awesome](https://github.com/sindresorhus/awesome/) ⭐ 500,367 | 🐛 105 | 📅 2026-08-21 project
+Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,958 | 🐛 859 | 🌐 Rust | 📅 2026-08-27, based on the [Awesome](https://github.com/sindresorhus/awesome/) ⭐ 500,376 | 🐛 105 | 📅 2026-08-21 project
 
 # Table of Contents
 
