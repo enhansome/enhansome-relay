@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 40518025,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T14:40:43Z",
+                "last_commit": "2026-08-26T14:36:19Z",
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16898
+                "stars": 16899
               }
             }
           ],
@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 40518025,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T14:40:43Z",
+                "last_commit": "2026-08-26T14:36:19Z",
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16898
+                "stars": 16899
               }
             }
           ],
@@ -58,7 +58,7 @@
                 "archived": false,
                 "id": 42077966,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T21:58:01Z",
+                "last_commit": "2026-08-26T12:08:59Z",
                 "owner": "taion",
                 "repo": "relay-todomvc",
                 "stars": 158
@@ -192,7 +192,7 @@
                 "archived": false,
                 "id": 42072677,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T23:03:02Z",
+                "last_commit": "2026-08-26T11:10:00Z",
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
                 "stars": 252
@@ -242,10 +242,10 @@
                     "archived": false,
                     "id": 40508605,
                     "language": "Rust",
-                    "last_commit": "2026-08-26T02:31:46Z",
+                    "last_commit": "2026-08-27T06:03:32Z",
                     "owner": "facebook",
                     "repo": "relay",
-                    "stars": 18956
+                    "stars": 18958
                   }
                 }
               ],
@@ -351,10 +351,10 @@
                 "archived": false,
                 "id": 40518025,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T14:40:43Z",
+                "last_commit": "2026-08-26T14:36:19Z",
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16898
+                "stars": 16899
               }
             },
             {
@@ -366,7 +366,7 @@
                 "archived": false,
                 "id": 42072677,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T23:03:02Z",
+                "last_commit": "2026-08-26T11:10:00Z",
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
                 "stars": 252
@@ -391,7 +391,7 @@
                 "last_commit": "2024-11-10T20:45:45Z",
                 "owner": "kriasoft",
                 "repo": "graphql-starter-kit",
-                "stars": 3972
+                "stars": 3971
               }
             },
             {
@@ -617,9 +617,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:19:57.728Z",
-    "original_repository": "expede/awesome-relay",
-    "original_repository_id": 47605076,
+    "last_updated": "2026-08-27T12:02:25.688Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 47605076,
+      "language": null,
+      "last_commit": "2021-10-18T11:22:52Z",
+      "owner": "expede",
+      "repo": "awesome-relay",
+      "stars": 290
+    },
     "original_repository_sha": "c467b6d340ac901abfe8303e49e76c031ce3a647",
     "enhanced_repository": "enhansome/enhansome-relay",
     "enhanced_repository_description": null,
