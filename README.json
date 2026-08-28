@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-26T14:36:19Z",
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16899
-              }
+                "stars": 16898
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             }
           ],
           "description": null,
@@ -39,8 +40,9 @@
                 "last_commit": "2026-08-26T14:36:19Z",
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16899
-              }
+                "stars": 16898
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             }
           ],
           "description": null,
@@ -58,11 +60,12 @@
                 "archived": false,
                 "id": 42077966,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T12:08:59Z",
+                "last_commit": "2026-08-28T11:17:20Z",
                 "owner": "taion",
                 "repo": "relay-todomvc",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -77,7 +80,8 @@
                 "owner": "chentsulin",
                 "repo": "koa-graphql-relay-example",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -92,7 +96,8 @@
                 "owner": "hungtuchen",
                 "repo": "relay-chat",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -107,7 +112,8 @@
                 "owner": "sogko",
                 "repo": "todomvc-relay-go",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             }
           ],
           "description": null,
@@ -135,7 +141,8 @@
                 "owner": "graphql",
                 "repo": "graphql-relay-js",
                 "stars": 1541
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -155,7 +162,8 @@
                     "owner": "denvned",
                     "repo": "isomorphic-relay-router",
                     "stars": 138
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:22:38.170Z"
                 }
               ],
               "repo_info": {
@@ -166,7 +174,8 @@
                 "owner": "relay-tools",
                 "repo": "react-router-relay",
                 "stars": 557
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -181,7 +190,8 @@
                 "owner": "relay-tools",
                 "repo": "react-relay-network-layer",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -192,11 +202,12 @@
                 "archived": false,
                 "id": 42072677,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T11:10:00Z",
+                "last_commit": "2026-08-28T12:51:42Z",
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
                 "stars": 252
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -211,7 +222,8 @@
                 "owner": "acdlite",
                 "repo": "relay-sink",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -226,7 +238,8 @@
                 "owner": "MattMcFarland",
                 "repo": "sequelize-relay",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -242,11 +255,12 @@
                     "archived": false,
                     "id": 40508605,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T06:03:32Z",
+                    "last_commit": "2026-08-28T04:04:09Z",
                     "owner": "facebook",
                     "repo": "relay",
                     "stars": 18958
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:22:38.170Z"
                 }
               ],
               "repo_info": {
@@ -257,7 +271,8 @@
                 "owner": "lenaten",
                 "repo": "react-native-relay",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -272,7 +287,8 @@
                 "owner": "eyston",
                 "repo": "relay-composite-network-layer",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -287,7 +303,8 @@
                 "owner": "heysailor",
                 "repo": "relay-mongodb-connection",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -302,7 +319,8 @@
                 "owner": "guymers",
                 "repo": "babel-plugin-flow-relay-query",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -317,7 +335,8 @@
                 "owner": "4Catalyzer",
                 "repo": "relay-decorators",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             }
           ],
           "description": null,
@@ -344,7 +363,8 @@
                     "owner": "skevy",
                     "repo": "graphiql-app",
                     "stars": 2969
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:22:38.170Z"
                 }
               ],
               "repo_info": {
@@ -354,8 +374,9 @@
                 "last_commit": "2026-08-26T14:36:19Z",
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16899
-              }
+                "stars": 16898
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -366,11 +387,12 @@
                 "archived": false,
                 "id": 42072677,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T11:10:00Z",
+                "last_commit": "2026-08-28T12:51:42Z",
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
                 "stars": 252
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             }
           ],
           "description": null,
@@ -392,7 +414,8 @@
                 "owner": "kriasoft",
                 "repo": "graphql-starter-kit",
                 "stars": 3971
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -407,7 +430,8 @@
                 "owner": "facebookarchive",
                 "repo": "relay-starter-kit",
                 "stars": 1005
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -422,7 +446,8 @@
                 "owner": "lvarayut",
                 "repo": "relay-fullstack",
                 "stars": 979
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -437,7 +462,8 @@
                 "owner": "mhart",
                 "repo": "simple-relay-starter",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -452,7 +478,8 @@
                 "owner": "fortruce",
                 "repo": "relay-skeleton",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -467,7 +494,8 @@
                 "owner": "nethsix",
                 "repo": "relay-on-rails",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             }
           ],
           "description": null,
@@ -495,7 +523,8 @@
                 "owner": "graphql-go",
                 "repo": "relay",
                 "stars": 423
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             },
             {
               "node_type": "item",
@@ -510,7 +539,8 @@
                 "owner": "sogko",
                 "repo": "todomvc-relay-go",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             }
           ],
           "description": null,
@@ -532,7 +562,8 @@
                 "owner": "graphql",
                 "repo": "graphql-relay-js",
                 "stars": 1541
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             }
           ],
           "description": null,
@@ -554,7 +585,8 @@
                 "owner": "graphql-python",
                 "repo": "graphql-relay-py",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             }
           ],
           "description": null,
@@ -578,7 +610,8 @@
                     "owner": "nethsix",
                     "repo": "relay-on-rails",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:22:38.170Z"
                 }
               ],
               "description": null,
@@ -605,7 +638,8 @@
                 "owner": "sangria-graphql",
                 "repo": "sangria-relay",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T14:22:38.170Z"
             }
           ],
           "description": null,
@@ -617,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:49:47.131Z",
+    "last_updated": "2026-08-28T14:22:38.170Z",
     "original_repository_info": {
       "archived": false,
       "id": 47605076,
