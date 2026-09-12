@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T01:20:21Z",
-                "open_issues": 392,
+                "open_issues": 393,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16903,
+                "stars": 16906,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -54,10 +54,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T01:20:21Z",
-                "open_issues": 392,
+                "open_issues": 393,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16903,
+                "stars": 16906,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -356,8 +356,8 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T21:16:02Z",
-                    "open_issues": 860,
+                    "last_commit": "2026-09-11T19:09:49Z",
+                    "open_issues": 861,
                     "owner": "facebook",
                     "repo": "relay",
                     "stars": 18961,
@@ -517,10 +517,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T01:20:21Z",
-                "open_issues": 392,
+                "open_issues": 393,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16903,
+                "stars": 16906,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:18:39.602Z",
+    "last_updated": "2026-09-12T07:10:58.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
