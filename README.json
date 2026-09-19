@@ -89,7 +89,7 @@
                 "id": 42077966,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-15T17:04:29Z",
+                "last_commit": "2026-09-19T01:41:04Z",
                 "open_issues": 41,
                 "owner": "taion",
                 "repo": "relay-todomvc",
@@ -186,11 +186,11 @@
                 "id": 40213252,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T14:14:51Z",
+                "last_commit": "2026-09-18T17:52:49Z",
                 "open_issues": 25,
                 "owner": "graphql",
                 "repo": "graphql-relay-js",
-                "stars": 1541,
+                "stars": 1542,
                 "topics": [
                   "graphql",
                   "relay"
@@ -241,7 +241,7 @@
                 "open_issues": 1,
                 "owner": "relay-tools",
                 "repo": "react-router-relay",
-                "stars": 555,
+                "stars": 556,
                 "topics": [
                   "react",
                   "relay",
@@ -288,7 +288,7 @@
                 "id": 42072677,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-15T18:01:41Z",
+                "last_commit": "2026-09-19T00:45:35Z",
                 "open_issues": 14,
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
@@ -356,11 +356,11 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T03:32:14Z",
-                    "open_issues": 861,
+                    "last_commit": "2026-09-18T18:00:56Z",
+                    "open_issues": 862,
                     "owner": "facebook",
                     "repo": "relay",
-                    "stars": 18965,
+                    "stars": 18964,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -545,7 +545,7 @@
                 "id": 42072677,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-15T18:01:41Z",
+                "last_commit": "2026-09-19T00:45:35Z",
                 "open_issues": 14,
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
@@ -791,11 +791,11 @@
                 "id": 40213252,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T14:14:51Z",
+                "last_commit": "2026-09-18T17:52:49Z",
                 "open_issues": 25,
                 "owner": "graphql",
                 "repo": "graphql-relay-js",
-                "stars": 1541,
+                "stars": 1542,
                 "topics": [
                   "graphql",
                   "relay"
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:25:50.370Z",
+    "last_updated": "2026-09-19T07:21:56.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
