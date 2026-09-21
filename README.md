@@ -1,6 +1,6 @@
 # Awesome Relay with stars
 
-Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,964 | 🐛 863 | 🌐 Rust | 📅 2026-09-19, based on the [Awesome](https://github.com/sindresorhus/awesome/) ⭐ 507,967 | 🐛 106 | 📅 2026-09-02 project
+Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,964 | 🐛 863 | 🌐 Rust | 📅 2026-09-19, based on the [Awesome](https://github.com/sindresorhus/awesome/) ⭐ 508,355 | 🐛 106 | 📅 2026-09-02 project
 
 # Table of Contents
 
@@ -82,7 +82,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,964 | �
 * [`react-relay-network-layer`](https://github.com/nodkz/react-relay-network-layer) ⭐ 277 | 🐛 9 | 🌐 JavaScript | 📅 2018-11-03 - A Network Layer that adds support for query-batching and middlewares. It additionally provides some useful middlewares such as for auth, for logging, etc.
 * [`relay-local-schema`](https://github.com/relay-tools/relay-local-schema) ⭐ 252 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-19 - Use a local schema; no need for a remote GraphQL server.
 * [`relay-sink`](https://github.com/acdlite/relay-sink) ⭐ 126 | 🐛 1 | 🌐 JavaScript | 📅 2017-06-19 - Use Relay to fetch and store data outside of a React component.
-* [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) ⭐ 76 | 🐛 6 | 🌐 JavaScript | 📅 2018-10-19 - Make Relay compatible with [`sequelize`](https://github.com/sequelize/sequelize) ⭐ 30,359 | 🐛 1,086 | 🌐 TypeScript | 📅 2026-09-20.
+* [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) ⭐ 76 | 🐛 6 | 🌐 JavaScript | 📅 2018-10-19 - Make Relay compatible with [`sequelize`](https://github.com/sequelize/sequelize) ⭐ 30,358 | 🐛 1,084 | 🌐 TypeScript | 📅 2026-09-20.
 * [`react-native-relay`](https://github.com/lenaten/react-native-relay) ⭐ 74 | 🐛 3 | 🌐 JavaScript | 📅 2016-03-24 - Use Relay with React Native.
   * May be supported [out of the box](https://github.com/facebook/relay/issues/26) ⭐ 18,964 | 🐛 863 | 🌐 Rust | 📅 2026-09-19 in the future.
 * [`relay-composite-network-layer`](https://github.com/eyston/relay-composite-network-layer) ⭐ 49 | 🐛 3 | 🌐 JavaScript | 📅 2015-12-28 - Compose your Relay Network Layer of many different Network Layers each with their own schema.
@@ -145,4 +145,4 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,964 | �
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
