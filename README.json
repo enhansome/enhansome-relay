@@ -356,11 +356,11 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-22T04:04:28Z",
-                    "open_issues": 861,
+                    "last_commit": "2026-09-23T04:28:09Z",
+                    "open_issues": 863,
                     "owner": "facebook",
                     "repo": "relay",
-                    "stars": 18965,
+                    "stars": 18963,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -886,7 +886,7 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T08:57:16Z",
-                "open_issues": 9,
+                "open_issues": 11,
                 "owner": "sangria-graphql",
                 "repo": "sangria-relay",
                 "stars": 91,
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:44:19.898Z",
+    "last_updated": "2026-09-23T07:47:09.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
@@ -916,7 +916,7 @@
       "open_issues": 2,
       "owner": "expede",
       "repo": "awesome-relay",
-      "stars": 290,
+      "stars": 291,
       "topics": [
         "facebook-relay",
         "graphql",
