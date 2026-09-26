@@ -356,11 +356,11 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-25T00:14:27Z",
+                    "last_commit": "2026-09-25T20:59:49Z",
                     "open_issues": 864,
                     "owner": "facebook",
                     "repo": "relay",
-                    "stars": 18963,
+                    "stars": 18964,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T07:52:06.660Z",
+    "last_updated": "2026-09-26T07:45:22.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
