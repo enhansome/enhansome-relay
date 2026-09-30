@@ -1,6 +1,6 @@
 # Awesome Relay with stars
 
-Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,965 | 🐛 864 | 🌐 Rust | 📅 2026-09-29, based on the [Awesome](https://github.com/sindresorhus/awesome/) ⭐ 512,158 | 🐛 106 | 📅 2026-09-02 project
+Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,965 | 🐛 864 | 🌐 Rust | 📅 2026-09-29, based on the [Awesome](https://github.com/sindresorhus/awesome/) ⭐ 512,609 | 🐛 106 | 📅 2026-09-02 project
 
 # Table of Contents
 
@@ -36,7 +36,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,965 | �
 
 ## Tutorials
 
-* [Facebook Relay talk - Lunch and Learn session](https://www.youtube.com/watch?v=sP3n-nht0Xo) - Walkthrough of building a simple app, and demonstration of [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,912 | 🐛 389 | 🌐 TypeScript | 📅 2026-09-29.
+* [Facebook Relay talk - Lunch and Learn session](https://www.youtube.com/watch?v=sP3n-nht0Xo) - Walkthrough of building a simple app, and demonstration of [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,912 | 🐛 397 | 🌐 TypeScript | 📅 2026-09-30.
 * [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/) - One of the few detailed walk throughs of hand-on Relay.
 * [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6#.1i64q1pf9) - A complete workable example.
   * [Relay 102: Mutations](https://medium.com/@clayallsopp/relay-102-mutations-d8b471a4730e#.i9vuv3vxl) - A follow up to "Relay 101" concentrating on mutations.
@@ -45,7 +45,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,965 | �
 
 ## Overviews
 
-* [Facebook Relay talk - Lunch and Learn session](https://www.youtube.com/watch?v=sP3n-nht0Xo) - Walkthrough of building a simple app, and demonstration of [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,912 | 🐛 389 | 🌐 TypeScript | 📅 2026-09-29.
+* [Facebook Relay talk - Lunch and Learn session](https://www.youtube.com/watch?v=sP3n-nht0Xo) - Walkthrough of building a simple app, and demonstration of [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,912 | 🐛 397 | 🌐 TypeScript | 📅 2026-09-30.
 * [React Data Fetching with Relay](http://www.sitepoint.com/react-data-fetching-with-relay/) - Clear conceptual overview of Relay's moving parts and magic.
 * [Joseph Savona - Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg) - Conceptual overview of Relay from the Facebook team.
 * [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU) - Overview of Relay, some about the philosophy.
@@ -94,7 +94,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,965 | �
 
 ## Tooling
 
-* [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,912 | 🐛 389 | 🌐 TypeScript | 📅 2026-09-29 - A library to introspect GraphQL, test queries and mutations.
+* [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,912 | 🐛 397 | 🌐 TypeScript | 📅 2026-09-30 - A library to introspect GraphQL, test queries and mutations.
   * [GraphiQL App](https://github.com/skevy/graphiql-app) ⭐ 2,971 | 🐛 87 | 🌐 JavaScript | 📅 2023-08-24 - A standalone app for viewing GraphQL, introspection docs, and testing queries/mutations. Invaluable for debugging your Relay app.
 * [`relay-local-schema`](https://github.com/relay-tools/relay-local-schema) ⭐ 252 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-24 - Use a local schema; no need for a remote GraphQL server.
 * [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
@@ -145,4 +145,4 @@ Awesome resources for [Relay](https://github.com/facebook/relay) ⭐ 18,965 | �
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
