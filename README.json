@@ -21,7 +21,7 @@
                 "open_issues": 393,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16915,
+                "stars": 16914,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -57,7 +57,7 @@
                 "open_issues": 393,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16915,
+                "stars": 16914,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -360,7 +360,7 @@
                     "open_issues": 865,
                     "owner": "facebook",
                     "repo": "relay",
-                    "stars": 18966,
+                    "stars": 18965,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -520,7 +520,7 @@
                 "open_issues": 393,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16915,
+                "stars": 16914,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:09:51.412Z",
+    "last_updated": "2026-10-04T08:28:51.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
@@ -916,7 +916,7 @@
       "open_issues": 2,
       "owner": "expede",
       "repo": "awesome-relay",
-      "stars": 291,
+      "stars": 290,
       "topics": [
         "facebook-relay",
         "graphql",
