@@ -356,11 +356,11 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T03:38:24Z",
+                    "last_commit": "2026-10-10T02:34:13Z",
                     "open_issues": 865,
                     "owner": "facebook",
                     "repo": "relay",
-                    "stars": 18961,
+                    "stars": 18960,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -503,7 +503,7 @@
                     "open_issues": 87,
                     "owner": "skevy",
                     "repo": "graphiql-app",
-                    "stars": 2971,
+                    "stars": 2970,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:08:38.265Z",
+    "last_updated": "2026-10-10T08:32:10.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
