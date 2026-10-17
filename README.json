@@ -21,7 +21,7 @@
                 "open_issues": 399,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16914,
+                "stars": 16915,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -57,7 +57,7 @@
                 "open_issues": 399,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16914,
+                "stars": 16915,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -288,7 +288,7 @@
                 "id": 42072677,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-15T23:00:15Z",
+                "last_commit": "2026-10-16T18:32:08Z",
                 "open_issues": 14,
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
@@ -356,7 +356,7 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T01:13:17Z",
+                    "last_commit": "2026-10-16T23:18:44Z",
                     "open_issues": 867,
                     "owner": "facebook",
                     "repo": "relay",
@@ -520,7 +520,7 @@
                 "open_issues": 399,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16914,
+                "stars": 16915,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -545,7 +545,7 @@
                 "id": 42072677,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-15T23:00:15Z",
+                "last_commit": "2026-10-16T18:32:08Z",
                 "open_issues": 14,
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T07:13:05.644Z",
+    "last_updated": "2026-10-17T06:59:17.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
