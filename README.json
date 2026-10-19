@@ -89,7 +89,7 @@
                 "id": 42077966,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-15T22:50:10Z",
+                "last_commit": "2026-10-19T00:58:50Z",
                 "open_issues": 41,
                 "owner": "taion",
                 "repo": "relay-todomvc",
@@ -356,11 +356,11 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T23:18:44Z",
+                    "last_commit": "2026-10-18T22:58:45Z",
                     "open_issues": 870,
                     "owner": "facebook",
                     "repo": "relay",
-                    "stars": 18962,
+                    "stars": 18961,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -577,7 +577,7 @@
                 "open_issues": 9,
                 "owner": "kriasoft",
                 "repo": "graphql-starter-kit",
-                "stars": 3967,
+                "stars": 3966,
                 "topics": [
                   "api",
                   "boilerplate",
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:15:31.115Z",
+    "last_updated": "2026-10-19T07:49:54.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
