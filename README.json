@@ -21,7 +21,7 @@
                 "open_issues": 399,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16922,
+                "stars": 16924,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -57,7 +57,7 @@
                 "open_issues": 399,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16922,
+                "stars": 16924,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -190,7 +190,7 @@
                 "open_issues": 22,
                 "owner": "graphql",
                 "repo": "graphql-relay-js",
-                "stars": 1542,
+                "stars": 1543,
                 "topics": [
                   "graphql",
                   "relay"
@@ -356,11 +356,11 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T07:51:59Z",
+                    "last_commit": "2026-10-28T22:30:39Z",
                     "open_issues": 862,
-                    "owner": "facebook",
+                    "owner": "meta",
                     "repo": "relay",
-                    "stars": 18964,
+                    "stars": 18966,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -520,7 +520,7 @@
                 "open_issues": 399,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16922,
+                "stars": 16924,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -795,7 +795,7 @@
                 "open_issues": 22,
                 "owner": "graphql",
                 "repo": "graphql-relay-js",
-                "stars": 1542,
+                "stars": 1543,
                 "topics": [
                   "graphql",
                   "relay"
@@ -886,7 +886,7 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-25T02:11:01Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "sangria-graphql",
                 "repo": "sangria-relay",
                 "stars": 91,
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T08:36:40.795Z",
+    "last_updated": "2026-10-29T08:32:36.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
