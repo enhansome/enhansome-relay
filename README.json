@@ -21,7 +21,7 @@
                 "open_issues": 399,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16927,
+                "stars": 16928,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -57,7 +57,7 @@
                 "open_issues": 399,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16927,
+                "stars": 16928,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -190,7 +190,7 @@
                 "open_issues": 22,
                 "owner": "graphql",
                 "repo": "graphql-relay-js",
-                "stars": 1544,
+                "stars": 1545,
                 "topics": [
                   "graphql",
                   "relay"
@@ -288,7 +288,7 @@
                 "id": 42072677,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-27T00:33:35Z",
+                "last_commit": "2026-10-30T17:53:12Z",
                 "open_issues": 14,
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
@@ -313,7 +313,7 @@
                 "open_issues": 1,
                 "owner": "acdlite",
                 "repo": "relay-sink",
-                "stars": 126,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:22:38.170Z"
@@ -356,11 +356,11 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T01:03:31Z",
+                    "last_commit": "2026-10-31T02:59:18Z",
                     "open_issues": 862,
                     "owner": "meta",
                     "repo": "relay",
-                    "stars": 18968,
+                    "stars": 18969,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -503,7 +503,7 @@
                     "open_issues": 87,
                     "owner": "skevy",
                     "repo": "graphiql-app",
-                    "stars": 2970,
+                    "stars": 2969,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -520,7 +520,7 @@
                 "open_issues": 399,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16927,
+                "stars": 16928,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -545,7 +545,7 @@
                 "id": 42072677,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-27T00:33:35Z",
+                "last_commit": "2026-10-30T17:53:12Z",
                 "open_issues": 14,
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
@@ -577,7 +577,7 @@
                 "open_issues": 9,
                 "owner": "kriasoft",
                 "repo": "graphql-starter-kit",
-                "stars": 3967,
+                "stars": 3968,
                 "topics": [
                   "api",
                   "boilerplate",
@@ -795,7 +795,7 @@
                 "open_issues": 22,
                 "owner": "graphql",
                 "repo": "graphql-relay-js",
-                "stars": 1544,
+                "stars": 1545,
                 "topics": [
                   "graphql",
                   "relay"
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T08:41:09.000Z",
+    "last_updated": "2026-10-31T08:28:03.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
