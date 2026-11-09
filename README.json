@@ -21,7 +21,7 @@
                 "open_issues": 367,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16929,
+                "stars": 16931,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -57,7 +57,7 @@
                 "open_issues": 367,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16929,
+                "stars": 16931,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -356,11 +356,11 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-07T19:25:26Z",
-                    "open_issues": 860,
+                    "last_commit": "2026-11-09T02:36:13Z",
+                    "open_issues": 864,
                     "owner": "meta",
                     "repo": "relay",
-                    "stars": 18979,
+                    "stars": 18980,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -520,7 +520,7 @@
                 "open_issues": 367,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16929,
+                "stars": 16931,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -577,7 +577,7 @@
                 "open_issues": 9,
                 "owner": "kriasoft",
                 "repo": "graphql-starter-kit",
-                "stars": 3968,
+                "stars": 3967,
                 "topics": [
                   "api",
                   "boilerplate",
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T09:02:16.998Z",
+    "last_updated": "2026-11-09T09:52:16.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
