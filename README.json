@@ -288,7 +288,7 @@
                 "id": 42072677,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-13T23:00:58Z",
+                "last_commit": "2026-11-14T17:50:07Z",
                 "open_issues": 14,
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
@@ -356,11 +356,11 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-14T00:55:07Z",
+                    "last_commit": "2026-11-14T21:07:25Z",
                     "open_issues": 846,
                     "owner": "meta",
                     "repo": "relay",
-                    "stars": 18982,
+                    "stars": 18981,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -545,7 +545,7 @@
                 "id": 42072677,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-13T23:00:58Z",
+                "last_commit": "2026-11-14T17:50:07Z",
                 "open_issues": 14,
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T08:59:55.743Z",
+    "last_updated": "2026-11-15T09:30:03.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
