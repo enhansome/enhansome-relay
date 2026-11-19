@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-17T04:11:16Z",
-                "open_issues": 396,
+                "open_issues": 397,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16939,
+                "stars": 16941,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -54,10 +54,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-17T04:11:16Z",
-                "open_issues": 396,
+                "open_issues": 397,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16939,
+                "stars": 16941,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -356,7 +356,7 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T01:57:16Z",
+                    "last_commit": "2026-11-19T00:55:23Z",
                     "open_issues": 851,
                     "owner": "meta",
                     "repo": "relay",
@@ -517,10 +517,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-17T04:11:16Z",
-                "open_issues": 396,
+                "open_issues": 397,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16939,
+                "stars": 16941,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -577,7 +577,7 @@
                 "open_issues": 9,
                 "owner": "kriasoft",
                 "repo": "graphql-starter-kit",
-                "stars": 3966,
+                "stars": 3967,
                 "topics": [
                   "api",
                   "boilerplate",
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:13:31.690Z",
+    "last_updated": "2026-11-19T10:24:48.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
