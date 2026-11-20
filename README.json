@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-17T04:11:16Z",
-                "open_issues": 397,
+                "open_issues": 398,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16941,
+                "stars": 16940,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -54,10 +54,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-17T04:11:16Z",
-                "open_issues": 397,
+                "open_issues": 398,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16941,
+                "stars": 16940,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -89,7 +89,7 @@
                 "id": 42077966,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-17T01:49:11Z",
+                "last_commit": "2026-11-20T05:05:44Z",
                 "open_issues": 41,
                 "owner": "taion",
                 "repo": "relay-todomvc",
@@ -190,7 +190,7 @@
                 "open_issues": 24,
                 "owner": "graphql",
                 "repo": "graphql-relay-js",
-                "stars": 1545,
+                "stars": 1544,
                 "topics": [
                   "graphql",
                   "relay"
@@ -356,11 +356,11 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-19T00:55:23Z",
-                    "open_issues": 851,
+                    "last_commit": "2026-11-20T05:17:36Z",
+                    "open_issues": 852,
                     "owner": "meta",
                     "repo": "relay",
-                    "stars": 18984,
+                    "stars": 18983,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -517,10 +517,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-17T04:11:16Z",
-                "open_issues": 397,
+                "open_issues": 398,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16941,
+                "stars": 16940,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -640,7 +640,7 @@
                 "open_issues": 6,
                 "owner": "lvarayut",
                 "repo": "relay-fullstack",
-                "stars": 978,
+                "stars": 977,
                 "topics": [
                   "boilerplate",
                   "graphql",
@@ -746,7 +746,7 @@
                 "open_issues": 8,
                 "owner": "graphql-go",
                 "repo": "relay",
-                "stars": 424,
+                "stars": 423,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:22:38.170Z"
@@ -795,7 +795,7 @@
                 "open_issues": 24,
                 "owner": "graphql",
                 "repo": "graphql-relay-js",
-                "stars": 1545,
+                "stars": 1544,
                 "topics": [
                   "graphql",
                   "relay"
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:24:48.596Z",
+    "last_updated": "2026-11-20T10:03:46.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
