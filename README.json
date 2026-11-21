@@ -21,7 +21,7 @@
                 "open_issues": 398,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16940,
+                "stars": 16941,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -57,7 +57,7 @@
                 "open_issues": 398,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16940,
+                "stars": 16941,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -89,7 +89,7 @@
                 "id": 42077966,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-20T05:05:44Z",
+                "last_commit": "2026-11-20T22:58:01Z",
                 "open_issues": 41,
                 "owner": "taion",
                 "repo": "relay-todomvc",
@@ -288,7 +288,7 @@
                 "id": 42072677,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-16T20:02:18Z",
+                "last_commit": "2026-11-21T00:53:33Z",
                 "open_issues": 14,
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
@@ -356,11 +356,11 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T05:17:36Z",
+                    "last_commit": "2026-11-21T01:19:39Z",
                     "open_issues": 852,
                     "owner": "meta",
                     "repo": "relay",
-                    "stars": 18983,
+                    "stars": 18984,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -520,7 +520,7 @@
                 "open_issues": 398,
                 "owner": "graphql",
                 "repo": "graphiql",
-                "stars": 16940,
+                "stars": 16941,
                 "topics": [
                   "codemirror",
                   "graphiql",
@@ -545,7 +545,7 @@
                 "id": 42072677,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-16T20:02:18Z",
+                "last_commit": "2026-11-21T00:53:33Z",
                 "open_issues": 14,
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
@@ -577,7 +577,7 @@
                 "open_issues": 9,
                 "owner": "kriasoft",
                 "repo": "graphql-starter-kit",
-                "stars": 3967,
+                "stars": 3968,
                 "topics": [
                   "api",
                   "boilerplate",
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T10:03:46.700Z",
+    "last_updated": "2026-11-21T09:52:40.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
