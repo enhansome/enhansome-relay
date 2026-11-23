@@ -356,7 +356,7 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-21T01:19:39Z",
+                    "last_commit": "2026-11-22T21:07:16Z",
                     "open_issues": 852,
                     "owner": "meta",
                     "repo": "relay",
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T09:49:36.288Z",
+    "last_updated": "2026-11-23T10:49:16.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
