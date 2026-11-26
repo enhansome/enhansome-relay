@@ -89,7 +89,7 @@
                 "id": 42077966,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-20T22:58:01Z",
+                "last_commit": "2026-11-25T16:49:55Z",
                 "open_issues": 41,
                 "owner": "taion",
                 "repo": "relay-todomvc",
@@ -288,7 +288,7 @@
                 "id": 42072677,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-21T00:53:33Z",
+                "last_commit": "2026-11-25T16:11:08Z",
                 "open_issues": 14,
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
@@ -356,11 +356,11 @@
                     "id": 40508605,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-25T04:10:25Z",
-                    "open_issues": 857,
+                    "last_commit": "2026-11-25T18:46:24Z",
+                    "open_issues": 861,
                     "owner": "meta",
                     "repo": "relay",
-                    "stars": 18983,
+                    "stars": 18984,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:22:38.170Z"
@@ -545,7 +545,7 @@
                 "id": 42072677,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-21T00:53:33Z",
+                "last_commit": "2026-11-25T16:11:08Z",
                 "open_issues": 14,
                 "owner": "relay-tools",
                 "repo": "relay-local-schema",
@@ -904,7 +904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T11:21:08.719Z",
+    "last_updated": "2026-11-26T10:56:56.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Relay",
